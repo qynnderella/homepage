@@ -22,7 +22,7 @@ body .bodyFoot {
   text-align: right; }
 .main .nav #leftItem a {
   color: black;
-  font-weight: 200;
+  font-weight: 100;
   font-size: 32px;
   padding-right: 5%; }
 @media screen and (max-width: 425px) {
@@ -34,7 +34,7 @@ body .bodyFoot {
   text-align: left; }
 .main .nav #rightItem a {
   color: black;
-  font-weight: 200;
+  font-weight: 100;
   font-size: 32px;
   padding-left: 5%; }
 @media screen and (max-width: 425px) {
